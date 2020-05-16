@@ -1,0 +1,25 @@
+Key|English|Russian|French
+LogInAccount|Log in account|Войти в аккаунт|
+SignUpAccount|Sign up account|Создать аккаунт|
+Nick|Nick|Ник|
+Email(optional)|Email (optional)|Email (необязательно)|
+Password|Password|Пароль|
+Password(again)|Password (again)|Пароль (ещё раз)|
+Back|Back|Назад|
+ForgotPassword|Forgot password|Забыл пароль|
+SignUp|Sign up|Создать|Inscrire
+LogIn|Log in|Войти|
+RestorePassword|Restore password|Восстановить пароль|
+RestoreDescription|We will send verification code in mail attached to account. If you have not attached mail, then contact with us at Discord.|Мы отправим код подтверждения на почту, прикрепленную к учетной записи. Если ты не привязывал почту, то напиши нам по Discord.|
+NewPassword|New password|Новый пароль|
+CodeFromMail|Code from mail|Пароль из письма|
+SendCode|Send code|Отправить код|
+Done|Done|Готово|
+Okay|Okay|Хорошо|
+
+// Exceptions
+NoSuchAccount|No such account|Нет такого аккаунта|
+InvalidPassword|Invalid password|Неправильный пароль|
+RestoreOk|Congrats! Your password has been changed!|Поздравляю! Твой пароль был изменен!|
+RestoreNotOk|Sorry, but we can't restore your password|Прости, но мы не можем восстановить твой пароль|
+UseEnglishChars|We can't create account with this nickname. Use english chars.|Мы не можем создать аккаунт с таким ником. Используй английские буквы.|
